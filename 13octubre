@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     body{
-font size:40px; background color: gray}
+font size:40px; background color: gray; 
+margen:20px
+}
     
 </head><link rel="stylesheet" href="estilos1.css">
 <body>
