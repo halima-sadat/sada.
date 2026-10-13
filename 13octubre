@@ -23,6 +23,6 @@ margen:20px
     <h5 class="encabezado">este es el encabezado 5</h5>
     <h6 class="encabezado">este es el encabezado 6</h6>
 
-<--pie-->
+<footer> esta pagina en ramas 2026 </footer>
 </body>
 </html>
