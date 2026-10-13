@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="estilos.css">
-    <--eslito-->
+    body{
+font size:40px; background color: gray}
     
 </head><link rel="stylesheet" href="estilos1.css">
 <body>
