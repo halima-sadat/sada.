@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css">
+    <--eslito-->
+    
+</head><link rel="stylesheet" href="estilos1.css">
+<body>
+    <---menu--->
+    <h1>este es el encabezado 1</h1>
+    <h2>este es e encabezado 2</h2>
+    <h3>este es el encabezado 3</h3>
+    <h4>este es el encabezdo 4</h4>
+    <h5 class="encabezado">este es el encabezado 5</h5>
+    <h6 class="encabezado">este es el encabezado 6</h6>
+
+<--pie-->
+</body>
+</html>
