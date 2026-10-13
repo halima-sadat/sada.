@@ -9,7 +9,11 @@
     
 </head><link rel="stylesheet" href="estilos1.css">
 <body>
-    <---menu--->
+   <nav>
+<a href="#">inicio</a>
+<a href="#">sobre mi</a>
+<a href="#">contacto</a>
+</nav>
     <h1>este es el encabezado 1</h1>
     <h2>este es e encabezado 2</h2>
     <h3>este es el encabezado 3</h3>
